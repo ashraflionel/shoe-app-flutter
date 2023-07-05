@@ -1,0 +1,310 @@
+[
+    {
+        "type":"Mens Collection",
+        "id": "0",
+        "name": "Puma",
+        "category": "Men's Running",
+        "imageUrl": [
+            "https://www.sportsdirect.com/images/imgzoom/12/12137003_xxl.jpg",
+            "https://assets.ajio.com/medias/sys_master/root/h87/he5/16234189717534/-473Wx593H-460423304-black-MODEL.jpg",
+            "https://assets.ajio.com/medias/sys_master/root/h8a/h10/14150343720990/-1117Wx1400H-460475947-black-MODEL3.jpg"
+        ],
+        "oldPrice": "1299",
+        "sizes": [
+            {
+                "size": "6.0",
+                "isSelected": false
+            },
+            {
+                "size": "6.5",
+                "isSelected": false
+            },
+            {
+                "size": "7.0",
+                "isSelected": false
+            },
+            {
+                "size": "7.5",
+                "isSelected": false
+            },
+            {
+                "size": "8.0",
+                "isSelected": false
+            },
+            {
+                "size": "8.5",
+                "isSelected": false
+            },
+            {
+                "size": "9.0",
+                "isSelected": false
+            }
+        ],
+        "price": "799",
+        "description": "Step to the next way with the Nike",
+        "title": "Nike Running Shoes With Colling Venilations"
+    },
+    {
+        "type":"Mens Collection",
+        "id": "1",
+        "name": "Sparx",
+        "category": "Spark Your Feet",
+        "imageUrl": [
+            "https://nozzle.s3-ap-southeast-1.amazonaws.com/shop_111405/SM-7001-Gents-Black-1_1578679102.jpg",
+            "https://www.jiomart.com/images/product/original/rv8svl13eq/sparx-men-sm-414-black-grey-sports-shoes-product-images-rv8svl13eq-0-202205281456.jpg",
+            "https://n4.sdlcdn.com/imgs/j/e/o/Sparx-MEN-SM-414-Black-SDL286519316-4-640df.jpeg"
+        ],
+        "oldPrice": "1199",
+        "sizes": [
+            {
+                "size": "6.0",
+                "isSelected": false
+            },
+            {
+                "size": "6.5",
+                "isSelected": false
+            },
+            {
+                "size": "7.0",
+                "isSelected": false
+            },
+            {
+                "size": "7.5",
+                "isSelected": false
+            },
+            {
+                "size": "8.0",
+                "isSelected": false
+            },
+            {
+                "size": "8.5",
+                "isSelected": false
+            },
+            {
+                "size": "9.0",
+                "isSelected": false
+            }
+        ],
+        "price": "999",
+        "description": "Step to the next way with the Sparx",
+        "title": "Sparx Running Shoes With Colling Venilations"
+    },
+    {
+        "type":"Mens Collection",
+        "id": "2",
+        "name": "Adidas",
+        "category": "Let's Go",
+        "imageUrl": [
+            "https://assets.gy.digital/ZafFA5QUgv5x2SoYI9_5xXkSkn4=/fit-in/800x0/filters:fill(white)/s3.gy.digital%2Ffamousports%2Fuploads%2Fasset%2Fdata%2F294232%2FGY9319_1.jpg",
+            "https://www.transparentpng.com/thumb/adidas-shoes/a4xO3G-adidas-shoes-adidas-shoe-kids-superstar-daddy-grade.png",
+            "https://m.media-amazon.com/images/I/71hBMdQxpLL._UL1500_.jpg"
+
+        ],
+        "oldPrice": "5000",
+        "sizes": [
+            {
+                "size": "6.0",
+                "isSelected": false
+            },
+            {
+                "size": "6.5",
+                "isSelected": false
+            },
+            {
+                "size": "7.0",
+                "isSelected": false
+            },
+            {
+                "size": "7.5",
+                "isSelected": false
+            },
+            {
+                "size": "8.0",
+                "isSelected": false
+            },
+            {
+                "size": "8.5",
+                "isSelected": false
+            },
+            {
+                "size": "9.0",
+                "isSelected": false
+            }
+        ],
+        "price": "3999",
+        "description": "Step to the next way with the Adidas",
+        "title": "Adidas Running Shoes With Colling Venilations"
+    },
+    {
+        "type":"Mens Collection",
+        "id": "3",
+        "name": "Puma",
+        "category": "Run Forward",
+        "imageUrl": [
+            "https://assets.ajio.com/medias/sys_master/root/20201102/jVus/5f9ffd05aeb269d563f66dd7/-473Wx593H-460771242-white-MODEL.jpg"
+        ],
+        "oldPrice": "4000",
+        "sizes": [
+            {
+                "size": "6.0",
+                "isSelected": false
+            },
+            {
+                "size": "6.5",
+                "isSelected": false
+            },
+            {
+                "size": "7.0",
+                "isSelected": false
+            },
+            {
+                "size": "7.5",
+                "isSelected": false
+            },
+            {
+                "size": "8.0",
+                "isSelected": false
+            },
+            {
+                "size": "8.5",
+                "isSelected": false
+            },
+            {
+                "size": "9.0",
+                "isSelected": false
+            }
+        ],
+        "price": "2499",
+        "description": "Step to the next way with the Puma",
+        "title": "Puma Running Shoes With Colling Venilations"
+    },
+    {
+        "type":"Mens Collection",
+        "id": "4",
+        "name": "Adidas",
+        "category": "Walk Forward",
+        "imageUrl": [
+            "https://m.media-amazon.com/images/I/714a6H-+ygL._UL1500_.jpg"
+        ],
+        "oldPrice": "5000",
+        "sizes": [
+            {
+                "size": "6.0",
+                "isSelected": false
+            },
+            {
+                "size": "6.5",
+                "isSelected": false
+            },
+            {
+                "size": "7.0",
+                "isSelected": false
+            },
+            {
+                "size": "7.5",
+                "isSelected": false
+            },
+            {
+                "size": "8.0",
+                "isSelected": false
+            },
+            {
+                "size": "8.5",
+                "isSelected": false
+            },
+            {
+                "size": "9.0",
+                "isSelected": false
+            }
+        ],
+        "price": "3999",
+        "description": "Step to the next way with the Adidas",
+        "title": "Adidas Running Shoes With Colling Venilations"
+    },
+    {
+        "type":"Mens Collection",
+        "id": "5",
+        "name": "Reebok",
+        "category": "Dance Yourself",
+        "imageUrl": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNsyZvdkArcL4Dd_BJzs174rd9i-XXu2OEvKvRvZMB6McVbbE39LTTqBrmH5fwE3C05XQ&usqp=CAU"
+        ],
+        "oldPrice": "1999",
+        "sizes": [
+            {
+                "size": "6.0",
+                "isSelected": false
+            },
+            {
+                "size": "6.5",
+                "isSelected": false
+            },
+            {
+                "size": "7.0",
+                "isSelected": false
+            },
+            {
+                "size": "7.5",
+                "isSelected": false
+            },
+            {
+                "size": "8.0",
+                "isSelected": false
+            },
+            {
+                "size": "8.5",
+                "isSelected": false
+            },
+            {
+                "size": "9.0",
+                "isSelected": false
+            }
+        ],
+        "price": "1499",
+        "description": "Step to the next way with the Reebok",
+        "title": "Reebok Running Shoes With Colling Venilations"
+    },
+    {
+        "type":"Mens Collection",
+        "id": "6",
+        "name": "Basics",
+        "category": "Move On",
+        "imageUrl": [
+            "https://m.media-amazon.com/images/I/51CdebtjP2L._UL1200_.jpg"
+        ],
+        "oldPrice": "999",
+        "sizes": [
+            {
+                "size": "6.0",
+                "isSelected": false
+            },
+            {
+                "size": "6.5",
+                "isSelected": false
+            },
+            {
+                "size": "7.0",
+                "isSelected": false
+            },
+            {
+                "size": "7.5",
+                "isSelected": false
+            },
+            {
+                "size": "8.0",
+                "isSelected": false
+            },
+            {
+                "size": "8.5",
+                "isSelected": false
+            },
+            {
+                "size": "9.0",
+                "isSelected": false
+            }
+        ],
+        "price": "499",
+        "description": "Step to the next way with the Basics",
+        "title": "Basics Running Shoes With Colling Venilations"
+    }
+]

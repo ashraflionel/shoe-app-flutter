@@ -1,0 +1,303 @@
+[
+    {
+        "type":"Kids Collection",
+        "id": "0",
+        "name": "Kids shoe 1",
+        "category": "Kid's Running",
+        "imageUrl": [
+            "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/21025980/2022/12/2/3dd60083-61d4-46b2-9d23-7c923203c0d21669921670811CampusUnisexKidsBlueRunningShoes1.jpg"
+        ],
+        "oldPrice": "1299",
+        "sizes": [
+            {
+                "size": "3.0",
+                "isSelected": false
+            },
+            {
+                "size": "3.5",
+                "isSelected": false
+            },
+            {
+                "size": "4.0",
+                "isSelected": false
+            },
+            {
+                "size": "4.5",
+                "isSelected": false
+            },
+            {
+                "size": "5.0",
+                "isSelected": false
+            },
+            {
+                "size": "5.5",
+                "isSelected": false
+            },
+            {
+                "size": "6.0",
+                "isSelected": false
+            }
+        ],
+        "price": "799",
+        "description": "Step to the next way with the Nike",
+        "title": "Nike Running Shoes With Colling Venilations"
+    },
+    {
+        "type":"Kids Collection",
+        "id": "1",
+        "name": "Kids shoe 2",
+        "category": "Spark Your Feet",
+        "imageUrl": [
+            "https://m.media-amazon.com/images/I/81YDujLswGL._UL1500_.jpg"
+        ],
+        "oldPrice": "1199",
+        "sizes": [
+            {
+                "size": "3.0",
+                "isSelected": false
+            },
+            {
+                "size": "3.5",
+                "isSelected": false
+            },
+            {
+                "size": "4.0",
+                "isSelected": false
+            },
+            {
+                "size": "4.5",
+                "isSelected": false
+            },
+            {
+                "size": "5.0",
+                "isSelected": false
+            },
+            {
+                "size": "5.5",
+                "isSelected": false
+            },
+            {
+                "size": "6.0",
+                "isSelected": false
+            }
+        ],
+        "price": "999",
+        "description": "Step to the next way with the Sparx",
+        "title": "Sparx Running Shoes With Colling Venilations"
+    },
+    {
+        "type":"Kids Collection",
+        "id": "2",
+        "name": "Kids shoe 3",
+        "category": "Let's walk",
+        "imageUrl": [
+            "https://images-cdn.ubuy.co.in/6354c22d095666412c5677f3-hhsts-kids-shoes-with-wheels-led-light.jpg"
+        ],
+        "oldPrice": "5000",
+        "sizes": [
+            {
+                "size": "3.0",
+                "isSelected": false
+            },
+            {
+                "size": "3.5",
+                "isSelected": false
+            },
+            {
+                "size": "4.0",
+                "isSelected": false
+            },
+            {
+                "size": "4.5",
+                "isSelected": false
+            },
+            {
+                "size": "5.0",
+                "isSelected": false
+            },
+            {
+                "size": "5.5",
+                "isSelected": false
+            },
+            {
+                "size": "6.0",
+                "isSelected": false
+            }
+        ],
+        "price": "3999",
+        "description": "Step to the next way with the Adidas",
+        "title": "Adidas Running Shoes With Colling Venilations"
+    },
+    {
+        "type":"Kids Collection",
+        "id": "3",
+        "name": "Kids shoe 4",
+        "category": "Run Forward",
+        "imageUrl": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwNplCxvMobWl1sjW46aJfPqM1PIXIZE3_zNgBpbFnRYvMEQTO6zoOqfrYSdIf-qjqT7k&usqp=CAU"
+        ],
+        "oldPrice": "4000",
+        "sizes": [
+            {
+                "size": "3.0",
+                "isSelected": false
+            },
+            {
+                "size": "3.5",
+                "isSelected": false
+            },
+            {
+                "size": "4.0",
+                "isSelected": false
+            },
+            {
+                "size": "4.5",
+                "isSelected": false
+            },
+            {
+                "size": "5.0",
+                "isSelected": false
+            },
+            {
+                "size": "5.5",
+                "isSelected": false
+            },
+            {
+                "size": "6.0",
+                "isSelected": false
+            }
+        ],
+        "price": "2499",
+        "description": "Step to the next way with the Puma",
+        "title": "Puma Running Shoes With Colling Venilations"
+    },
+    {
+        "type":"Kids Collection",
+        "id": "4",
+        "name": "Kids shoe 5",
+        "category": "Walk Forward",
+        "imageUrl": [
+            "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_300,h_300/global/381994/09/sv01/fnd/IND/fmt/png/Wired-Run-Kid's-Shoes"
+        ],
+        "oldPrice": "5000",
+        "sizes": [
+            {
+                "size": "3.0",
+                "isSelected": false
+            },
+            {
+                "size": "3.5",
+                "isSelected": false
+            },
+            {
+                "size": "4.0",
+                "isSelected": false
+            },
+            {
+                "size": "4.5",
+                "isSelected": false
+            },
+            {
+                "size": "5.0",
+                "isSelected": false
+            },
+            {
+                "size": "5.5",
+                "isSelected": false
+            },
+            {
+                "size": "6.0",
+                "isSelected": false
+            }
+        ],
+        "price": "3999",
+        "description": "Step to the next way with the Adidas",
+        "title": "Adidas Running Shoes With Colling Venilations"
+    },
+    {
+        "type":"Kids Collection",
+        "id": "5",
+        "name": "Kids shoe 6",
+        "category": "Dance Yourself",
+        "imageUrl": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ5Mb1Gi4Ut8qp148WNxSnOF2uTRvzvvBLmS-yabjqAYEgM_N4JSxWMfpE9Oka9034VOg&usqp=CAU"
+        ],
+        "oldPrice": "1999",
+        "sizes": [
+            {
+                "size": "3.0",
+                "isSelected": false
+            },
+            {
+                "size": "3.5",
+                "isSelected": false
+            },
+            {
+                "size": "4.0",
+                "isSelected": false
+            },
+            {
+                "size": "4.5",
+                "isSelected": false
+            },
+            {
+                "size": "5.0",
+                "isSelected": false
+            },
+            {
+                "size": "5.5",
+                "isSelected": false
+            },
+            {
+                "size": "6.0",
+                "isSelected": false
+            }
+        ],
+        "price": "1499",
+        "description": "Step to the next way with the Reebok",
+        "title": "Reebok Running Shoes With Colling Venilations"
+    },
+    {
+        "type":"Kids Collection",
+        "id": "6",
+        "name": "Kids shoe 7",
+        "category": "Move On",
+        "imageUrl": [
+            "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_450,h_450/global/192929/37/sv01/fnd/SEA/fmt/png/Flyer-Runner-V-Kids'-Trainers"
+        ],
+        "oldPrice": "999",
+        "sizes": [
+            {
+                "size": "3.0",
+                "isSelected": false
+            },
+            {
+                "size": "3.5",
+                "isSelected": false
+            },
+            {
+                "size": "4.0",
+                "isSelected": false
+            },
+            {
+                "size": "4.5",
+                "isSelected": false
+            },
+            {
+                "size": "5.0",
+                "isSelected": false
+            },
+            {
+                "size": "5.5",
+                "isSelected": false
+            },
+            {
+                "size": "6.0",
+                "isSelected": false
+            }
+        ],
+        "price": "499",
+        "description": "Step to the next way with the Basics",
+        "title": "Basics Running Shoes With Colling Venilations"
+    }
+]

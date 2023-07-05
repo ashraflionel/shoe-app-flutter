@@ -1,0 +1,303 @@
+[
+    {
+        "type":"Womens Collection",
+        "id": "0",
+        "name": "Feel Step",
+        "category": "walk more",
+        "imageUrl": [
+            "https://www.shutterstock.com/image-photo/pair-beige-female-shoes-over-260nw-75378727.jpg"
+        ],
+        "oldPrice": "1800",
+        "sizes": [
+            {
+                "size": "6.0",
+                "isSelected": false
+            },
+            {
+                "size": "6.5",
+                "isSelected": false
+            },
+            {
+                "size": "7.0",
+                "isSelected": false
+            },
+            {
+                "size": "7.5",
+                "isSelected": false
+            },
+            {
+                "size": "8.0",
+                "isSelected": false
+            },
+            {
+                "size": "8.5",
+                "isSelected": false
+            },
+            {
+                "size": "9.0",
+                "isSelected": false
+            }
+        ],
+        "price": "799",
+        "description": "Step to the next way with the Nike",
+        "title": "Nike Running Shoes With Colling Venilations"
+    },
+    {
+        "type":"Womens Collection",
+        "id": "1",
+        "name": "Puma",
+        "category": "Spark Your Feet",
+        "imageUrl": [
+            "https://media.istockphoto.com/id/115812446/photo/women-shoes.jpg?s=612x612&w=0&k=20&c=zqzvvz2buCjSaalLBfN6iT7oi2hAJlBDe03WftfQ0u8="
+        ],
+        "oldPrice": "1299",
+        "sizes": [
+            {
+                "size": "6.0",
+                "isSelected": false
+            },
+            {
+                "size": "6.5",
+                "isSelected": false
+            },
+            {
+                "size": "7.0",
+                "isSelected": false
+            },
+            {
+                "size": "7.5",
+                "isSelected": false
+            },
+            {
+                "size": "8.0",
+                "isSelected": false
+            },
+            {
+                "size": "8.5",
+                "isSelected": false
+            },
+            {
+                "size": "9.0",
+                "isSelected": false
+            }
+        ],
+        "price": "899",
+        "description": "Step to the next way with the Sparx",
+        "title": "Sparx Running Shoes With Colling Venilations"
+    },
+    {
+        "type":"Womens Collection",
+        "id": "2",
+        "name": "Adidas",
+        "category": "Let's Go",
+        "imageUrl": [
+            "https://footwearnews.com/wp-content/uploads/2018/08/vionic-flats.jpg?w=700&h=437&crop=1"
+        ],
+        "oldPrice": "5000",
+        "sizes": [
+            {
+                "size": "6.0",
+                "isSelected": false
+            },
+            {
+                "size": "6.5",
+                "isSelected": false
+            },
+            {
+                "size": "7.0",
+                "isSelected": false
+            },
+            {
+                "size": "7.5",
+                "isSelected": false
+            },
+            {
+                "size": "8.0",
+                "isSelected": false
+            },
+            {
+                "size": "8.5",
+                "isSelected": false
+            },
+            {
+                "size": "9.0",
+                "isSelected": false
+            }
+        ],
+        "price": "3999",
+        "description": "Step to the next way with the Adidas",
+        "title": "Adidas Running Shoes With Colling Venilations"
+    },
+    {
+        "type":"Womens Collection",
+        "id": "3",
+        "name": "Puma",
+        "category": "Run Forward",
+        "imageUrl": [
+            "https://fkcdn.gumlet.io/wp-content/uploads/2018/08/vionic-minna-cream-navy.jpg?compress=true&quality=80&w=200&dpr=2.6"
+        ],
+        "oldPrice": "4000",
+        "sizes": [
+            {
+                "size": "6.0",
+                "isSelected": false
+            },
+            {
+                "size": "6.5",
+                "isSelected": false
+            },
+            {
+                "size": "7.0",
+                "isSelected": false
+            },
+            {
+                "size": "7.5",
+                "isSelected": false
+            },
+            {
+                "size": "8.0",
+                "isSelected": false
+            },
+            {
+                "size": "8.5",
+                "isSelected": false
+            },
+            {
+                "size": "9.0",
+                "isSelected": false
+            }
+        ],
+        "price": "2499",
+        "description": "Step to the next way with the Puma",
+        "title": "Puma Running Shoes With Colling Venilations"
+    },
+    {
+        "type":"Womens Collection",
+        "id": "4",
+        "name": "Adidas",
+        "category": "Walk Forward",
+        "imageUrl": [
+            "https://thumbs.dreamstime.com/b/blue-woman-shoes-isolated-closeup-pair-blue-elegant-female-shoes-women-isolated-white-background-womens-summer-blue-152759977.jpg"
+        ],
+        "oldPrice": "5000",
+        "sizes": [
+            {
+                "size": "6.0",
+                "isSelected": false
+            },
+            {
+                "size": "6.5",
+                "isSelected": false
+            },
+            {
+                "size": "7.0",
+                "isSelected": false
+            },
+            {
+                "size": "7.5",
+                "isSelected": false
+            },
+            {
+                "size": "8.0",
+                "isSelected": false
+            },
+            {
+                "size": "8.5",
+                "isSelected": false
+            },
+            {
+                "size": "9.0",
+                "isSelected": false
+            }
+        ],
+        "price": "3999",
+        "description": "Step to the next way with the Adidas",
+        "title": "Adidas Running Shoes With Colling Venilations"
+    },
+    {
+        "type":"Womens Collection",
+        "id": "5",
+        "name": "Reebok",
+        "category": "Dance Yourself",
+        "imageUrl": [
+            "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOOSKOLL-WOMEN-FAIT4561197A6F2336/1564576214453_4..jpg?imwidth=282&impolicy=hq"
+        ],
+        "oldPrice": "1999",
+        "sizes": [
+            {
+                "size": "6.0",
+                "isSelected": false
+            },
+            {
+                "size": "6.5",
+                "isSelected": false
+            },
+            {
+                "size": "7.0",
+                "isSelected": false
+            },
+            {
+                "size": "7.5",
+                "isSelected": false
+            },
+            {
+                "size": "8.0",
+                "isSelected": false
+            },
+            {
+                "size": "8.5",
+                "isSelected": false
+            },
+            {
+                "size": "9.0",
+                "isSelected": false
+            }
+        ],
+        "price": "1499",
+        "description": "Step to the next way with the Reebok",
+        "title": "Reebok Running Shoes With Colling Venilations"
+    },
+    {
+        "type":"Womens Collection",
+        "id": "6",
+        "name": "Basics",
+        "category": "Move On",
+        "imageUrl": [
+            "https://images-na.ssl-images-amazon.com/images/I/819DTrT2HLL._UL1500_.jpg"
+        ],
+        "oldPrice": "999",
+        "sizes": [
+            {
+                "size": "6.0",
+                "isSelected": false
+            },
+            {
+                "size": "6.5",
+                "isSelected": false
+            },
+            {
+                "size": "7.0",
+                "isSelected": false
+            },
+            {
+                "size": "7.5",
+                "isSelected": false
+            },
+            {
+                "size": "8.0",
+                "isSelected": false
+            },
+            {
+                "size": "8.5",
+                "isSelected": false
+            },
+            {
+                "size": "9.0",
+                "isSelected": false
+            }
+        ],
+        "price": "499",
+        "description": "Step to the next way with the Basics",
+        "title": "Basics Running Shoes With Colling Venilations"
+    }
+]
